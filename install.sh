@@ -8,7 +8,7 @@
 set -euo pipefail
 
 APP="Agent Foundry.app"
-VERSION="v0.1.0"
+VERSION="v0.1.1"
 DMG_URL="https://github.com/Shai-2002/agent-foundry-app/releases/download/${VERSION}/AgentFoundry_${VERSION#v}_aarch64.dmg"
 
 MOUNT=""
